@@ -1,0 +1,23 @@
+# Archivos y carpetas de compilación de Android Studio / Gradle
+.gradle
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Configuraciones locales específicas de tu computadora
+local.properties
+/local.properties
+
+# Archivos de configuración de entorno de Android Studio (IDE)
+*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Archivos temporales del Sistema Operativo (Mac / Windows)
+.DS_Store
+Thumbs.db
